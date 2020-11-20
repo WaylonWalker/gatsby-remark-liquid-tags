@@ -20,7 +20,7 @@ _Installing `gatsby-transformer-remark` is not necessary if you have it installe
 
 ### When to use
 
-This plugin enables custom embeds in markdowns. Check out [the available services](./src/SERVICES.md).
+This plugin enables custom embeds in markdowns. Check out [the available services](https://github.com/dillionmegida/gatsby-remark-liquid-tags/blob/master/src/SERVICES.md).
 
 ### How to use
 
@@ -60,7 +60,7 @@ Contributions are highly welcome: [Feature requests](https://github.com/dillionm
 
 If you'd like to add more embeds, you can get insights from the [Dev.to Liquid tags page](https://dev.to/p/editor_guide#liquidtags)
 
-If you'd like to create a pull request, kindly go through the documentation here - [CONTRIBUTION.md](CONTRIBUTION.md) to help you get started.
+If you'd like to create a pull request, kindly go through the documentation here - [CONTRIBUTION.md](https://github.com/dillionmegida/gatsby-remark-liquid-tags/blob/master/CONTRIBUTION.md) to help you get started.
 
 ### Author
 
